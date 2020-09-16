@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin Dagger Hilt Playerground</string>
+
+    <string name="error">Unknown error</string>
+</resources>
